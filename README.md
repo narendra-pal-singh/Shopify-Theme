@@ -1,6 +1,7 @@
 # Shopify-Theme
 
-Shopify Theme Kit
+Creating complete Shopify Theme
 
-How to Create Shopify Theme Kit then Visit here
+
+How to Create Fresh Shopify Theme then Visit here
 https://shopify.github.io/themekit/
